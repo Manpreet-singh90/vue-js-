@@ -1,0 +1,4 @@
++ vue2-datatable-component@2.3.1
+added 1 package from 1 contributor and audited 31743 packages in 10.619s
+found 80 vulnerabilities (68 low, 7 moderate, 5 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
